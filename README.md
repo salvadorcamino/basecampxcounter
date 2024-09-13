@@ -1,3 +1,8 @@
+# counter contract address deployed 
+
+0x02072db323bc380ab601bad94eea12ed249af69a35aa945deb99950455ee31f5
+
+
 # Starknet's Counter Workshop
 
 In this workshop, you will learn how to create a simple Starknet smart contract, implement public functions, and events, access external contracts, and use OpenZeppelin's Ownable contract.
